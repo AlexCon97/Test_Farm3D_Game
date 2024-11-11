@@ -1,0 +1,20 @@
+PlayerController: 
++ Move
++ Rotate
++ Run (Hold Right mouse button)
+
+GrabSystem: 
+- Grab object (Hold Shift-Ready to grab object (on the center of screen appears point), Release Shift (Grab Object)).
+- Release object (Hold Shift-Ready to release object (in center of screen appears point), Release Shift (release object on shelf or ground))
+
+- Placing Objects on specific area (shelf for example): placing on grid and remember what exactly area is occupied.
+- Selling System
+- Buying System
+
+General tasks:
+- Set price
+- Grab object
+- Release object
+- Place object
+- Sell object
+- Buy object
